@@ -1,0 +1,15 @@
+
+Put ALL audio, images and PDF(resume) you want in your epk in the IMAGES folder ¡BEFORE! putting it in your EPK.
+
+
+
+
+DO NOT!!!!!!!!!!!
+
+!move anything out of this folder that is already here. ALL ITEMS MUST MOVE TOGETHER. Moving any one item will break your site.
+
+!move anyfile.html
+
+!move style.css
+
+!move or RENAME the IMAGES folder.
